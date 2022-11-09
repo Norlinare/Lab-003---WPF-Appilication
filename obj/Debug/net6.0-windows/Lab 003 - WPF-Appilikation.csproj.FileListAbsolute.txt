@@ -1,0 +1,21 @@
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\bin\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.exe
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\bin\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.deps.json
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\bin\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.runtimeconfig.json
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\bin\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.dll
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\bin\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.pdb
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.csproj.AssemblyReference.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation_MarkupCompile.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation_MarkupCompile.lref
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.g.resources
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.AssemblyInfoInputs.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.AssemblyInfo.cs
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.csproj.CoreCompileInputs.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.dll
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\refint\Lab 003 - WPF-Appilikation.dll
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.pdb
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\Lab 003 - WPF-Appilikation.genruntimeconfig.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\ref\Lab 003 - WPF-Appilikation.dll
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Imir\source\repos\Official\Lab\Lab 003 - WPF-Appilikation\obj\Debug\net6.0-windows\MainWindow.baml

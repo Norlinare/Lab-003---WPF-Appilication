@@ -1,0 +1,116 @@
+[
+  {
+    "fullName": "Einar Brob\u00E4ck",
+    "bookedTime": "18:00",
+    "bookedDate": "2022-11-14",
+    "bookedTable": 1
+  },
+  {
+    "fullName": "Mia Valenze",
+    "bookedTime": "20:00",
+    "bookedDate": "2022-11-14",
+    "bookedTable": 2
+  },
+  {
+    "fullName": "Lena G\u00E4rdestedt",
+    "bookedTime": "21:00",
+    "bookedDate": "2022-11-14",
+    "bookedTable": 3
+  },
+  {
+    "fullName": "Viktoria Sederljung",
+    "bookedTime": "22:00",
+    "bookedDate": "2022-11-14",
+    "bookedTable": 5
+  },
+  {
+    "fullName": "Jonas Winge",
+    "bookedTime": "18:00",
+    "bookedDate": "2022-11-15",
+    "bookedTable": 1
+  },
+  {
+    "fullName": "Gustav Vederb\u00E4ck",
+    "bookedTime": "18:00",
+    "bookedDate": "2022-11-15",
+    "bookedTable": 5
+  },
+  {
+    "fullName": "Therese Wallander",
+    "bookedTime": "21:00",
+    "bookedDate": "2022-11-15",
+    "bookedTable": 3
+  },
+  {
+    "fullName": "William Brickell",
+    "bookedTime": "19:00",
+    "bookedDate": "2022-11-16",
+    "bookedTable": 1
+  },
+  {
+    "fullName": "\u00D6rjan Gustavsson",
+    "bookedTime": "19:00",
+    "bookedDate": "2022-11-16",
+    "bookedTable": 2
+  },
+  {
+    "fullName": "Moa Leander",
+    "bookedTime": "19:00",
+    "bookedDate": "2022-11-16",
+    "bookedTable": 3
+  },
+  {
+    "fullName": "Matilda Jovis",
+    "bookedTime": "19:00",
+    "bookedDate": "2022-11-16",
+    "bookedTable": 4
+  },
+  {
+    "fullName": "Joakim J\u00F6nsson",
+    "bookedTime": "19:00",
+    "bookedDate": "2022-11-16",
+    "bookedTable": 5
+  },
+  {
+    "fullName": "Maria Lundgren",
+    "bookedTime": "20:00",
+    "bookedDate": "2022-11-16",
+    "bookedTable": 1
+  },
+  {
+    "fullName": "Jonas Hage",
+    "bookedTime": "22:00",
+    "bookedDate": "2022-11-16",
+    "bookedTable": 4
+  },
+  {
+    "fullName": "Leo Rosmark",
+    "bookedTime": "21:00",
+    "bookedDate": "2022-11-17",
+    "bookedTable": 3
+  },
+  {
+    "fullName": "Helene Vikhammar",
+    "bookedTime": "18:00",
+    "bookedDate": "2022-11-22",
+    "bookedTable": 4
+  },
+  {
+    "fullName": "Anna-Lena Mikaelsson",
+    "bookedTime": "20:00",
+    "bookedDate": "2022-11-23",
+    "bookedTable": 4
+  },
+  {
+    "fullName": "Johan Brickell",
+    "bookedTime": "19:00",
+    "bookedDate": "2022-11-24",
+    "bookedTable": 4
+  },
+  {
+    "fullName": "Lukas Sundin",
+    "bookedTime": "20:00",
+    "bookedDate": "2022-11-24",
+    "bookedTable": 4
+  }
+]

@@ -1,0 +1,63 @@
+﻿<Window x:Class="Lab_003___WPF_Appilikation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_003___WPF_Appilikation"
+        mc:Ignorable="d"
+        Title="Restaurang Bokning" Height="450" Width="800" FontSize="13">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+
+        <ScrollViewer                    Grid.Column="1" Grid.Row="1" Grid.RowSpan="7" Width="190 px">
+            <ListBox x:Name="BookedCustomers" SelectionChanged="BookedCustomers_SelectionChanged" />
+        </ScrollViewer>
+
+
+        <Label    Content="Datum"        Grid.Column="2" Grid.Row="1" Margin="5,2,5,2"/>
+        <DatePicker x:Name="InputDate"   Grid.Column="2" Grid.Row="2" Margin="5,2,5,2"/>
+        <Label    Content="Tid"          Grid.Column="2" Grid.Row="3" Margin="5,2,5,2"/>
+        <ComboBox x:Name="InputTime"     Grid.Column="2" Grid.Row="4" Margin="5,2,5,2" SelectionChanged="InputTime_SelectionChanged"/>
+        <Button   x:Name="Book"          Grid.Column="2" Grid.Row="5" Margin="5,10,5,2" 
+                  Height="30" Width="80" Content="Boka Bord" HorizontalAlignment="Left" FontSize="15" Click="Book_Click"/>
+        <Button x:Name="ViewBookings"    Grid.Column="2" Grid.Row="6"
+                Height="30" Content="Visa bokningar" FontSize="15" Click="ViewBookings_Click" Margin="5,2,5,2"/>
+
+
+        <Label    Content="Namn"         Grid.Column="3" Grid.Row="1" Margin="5,2,5,2" />
+        <TextBox  x:Name="InputName"     Grid.Column="3" Grid.Row="2" Margin="5,2,5,2" Height="22" Width="160" TextChanged="InputName_TextChanged"/>
+        <Label    Content="Bordsnummer"  Grid.Column="3" Grid.Row="3" Margin="5,2,5,2"/>
+        <ComboBox x:Name='InputTable'    Grid.Column="3" Grid.Row="4" Margin="5,2,5,2"   
+                  Height="25" Width="50" HorizontalAlignment="Left" SelectionChanged="InputTable_SelectionChanged" />
+
+        <Button   x:Name="RemoveBooking" Grid.Column="3" Grid.Row="5" Margin="5,10,0,0"  
+                  Height="30" Width="100" Content="Avboka Bord" HorizontalAlignment="Left" FontSize="15" VerticalAlignment="Top" Click="RemoveBooking_Click"/>
+
+
+        <TextBlock x:Name="OutputStatus" Grid.Column="4" Grid.Row="2" Margin="5,2,5,2" MaxWidth="315" MinHeight="150" MinWidth="275"
+                                          Background="#FFE4E4E4" Grid.RowSpan="5" Grid.ColumnSpan="3" HorizontalAlignment="Left" />
+
+    </Grid>
+</Window>
